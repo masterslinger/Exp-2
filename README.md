@@ -4,33 +4,46 @@
  To draw the UML diagram for Library Management System.
 
 # SRS (Procedure):
+```
  1.USE CASE DIAGRAM
  2.CLASS DIAGRAM
  3.ACTIVITY DIAGRAM
  4.COMMUNICATION DIAGRAM
  5.PACKAGE DIAGRAM
  6.SEQUENCE DIAGRAM
+```
  
 # DIAGRAMS:
 
 1. USE CASE DIAGRAM
-   ![UseCaseDiagram2 0](https://github.com/user-attachments/assets/4f91da38-5fec-412e-ab4d-cdcceaa1c3a5)
+   
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/1c9653f7-3602-4a0e-bd3b-da2027b17ebe" />
+
    
 2.CLASS DIAGRAM
-   ![ClassDiagram 2](https://github.com/user-attachments/assets/84a05287-690e-49d7-831d-6b4fd5cfb41f)
 
-3. Activity Diagram
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/79235504-c350-4bce-959d-43bbb720f78d" />
 
-    ![ActivityDiagram2](https://github.com/user-attachments/assets/3b065ab5-becd-4358-9e9e-623fffaa6036)
+
+3. ACTIVITY DIAGRAM
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/75afecaa-8e72-49c2-85c0-1dad67dc7d02" />
+
 
 4.COMMUNICATION DIAGRAM
-   ![CommunicationDiagram2](https://github.com/user-attachments/assets/98593102-1ebb-4c3e-a715-187c0505aeae)
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/17ae8760-6918-462e-b357-6e402c8f0e71" />
+
 
 5.PACKAGE DIAGRAM
-   ![PackageDiagram2](https://github.com/user-attachments/assets/669189d0-d634-44b9-a161-3f74e86aa495)
+
+<img width="1904" height="1192" alt="image" src="https://github.com/user-attachments/assets/f5af483f-8dc1-45a0-bc73-4f8f0830050f" />
+
 
 6.SEQUENCE DIAGRAM
-   ![SequenceDiagram2](https://github.com/user-attachments/assets/2854ed90-813d-4610-9cb8-101d24336294)
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/be3f11da-8ab6-4c85-8aa6-03dc3f9faea7" />
+
 
 
 
